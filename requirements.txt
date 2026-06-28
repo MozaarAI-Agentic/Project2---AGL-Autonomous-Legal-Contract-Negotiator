@@ -1,0 +1,21 @@
+﻿# AGL - Autonomous Legal Contract Negotiator
+# Python 3.11+ required
+# Installation : pip install -r requirements.txt
+
+# ── AutoGen v0.7 ──────────────────────────────────────────────────────────────
+pyautogen>=0.7.0
+autogen-ext[anthropic]>=0.7.0
+
+# ── LLM Backend ───────────────────────────────────────────────────────────────
+anthropic>=0.34.0
+tiktoken>=0.7.0
+
+# ── Convergence / Embeddings ──────────────────────────────────────────────────
+sentence-transformers>=3.0.0
+numpy>=1.26.0
+
+# ── Document Generation ───────────────────────────────────────────────────────
+python-docx>=1.1.0
+
+# ── Utilities ─────────────────────────────────────────────────────────────────
+python-dotenv>=1.0.0
