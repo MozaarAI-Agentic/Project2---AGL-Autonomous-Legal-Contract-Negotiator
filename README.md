@@ -11,11 +11,11 @@
 [![Claude](https://img.shields.io/badge/Claude-Sonnet_4.6-D97757?style=for-the-badge&logo=anthropic&logoColor=white)](https://anthropic.com)
 [![License](https://img.shields.io/badge/License-MIT-22C55E?style=for-the-badge)](./LICENSE)
 [![Status](https://img.shields.io/badge/Status-Production_Ready-22C55E?style=for-the-badge)]()
+ 🎬 **[Live Demo → HuggingFace Spaces](https://huggingface.co/spaces/Mozaar/AGL-Autonomous-Legal-Contract-Negotiator)**
+> 📄 **[Download sample NDA →](./assets/nda_sample.docx)**
+
 
 **[🇬🇧 English](#english-version) · [🇫🇷 Français](#version-française)**
-
-> 🎬 **[Live Demo → HuggingFace Spaces](https://huggingface.co/spaces/Mozaar/AGL-Autonomous-Legal-Contract-Negotiator)**
-> 📄 **[Download sample NDA →](./assets/nda_sample.docx)**
 
 ---
 
