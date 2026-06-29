@@ -14,6 +14,9 @@
 
 **[🇬🇧 English](#english-version) · [🇫🇷 Français](#version-française)**
 
+> 🎬 **[Live Demo → HuggingFace Spaces](https://huggingface.co/spaces/Mozaar/AGL-Autonomous-Legal-Contract-Negotiator)**
+> 📄 **[Download sample NDA →](./assets/nda_sample.docx)**
+
 ---
 
 *From weeks of legal back-and-forth to minutes of autonomous negotiation.*  
