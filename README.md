@@ -4,6 +4,8 @@
 
 ### *Two AI agents walk into a boardroom. Only one deal walks out.*
 
+![Démo de la négociation autonome](./assets/VidDemo.gif)
+
 [![Python](https://img.shields.io/badge/Python-3.11+-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://python.org)
 [![AutoGen](https://img.shields.io/badge/AutoGen-v0.7-7B2FBE?style=for-the-badge&logo=microsoft&logoColor=white)](https://github.com/microsoft/autogen)
 [![Claude](https://img.shields.io/badge/Claude-Sonnet_4.6-D97757?style=for-the-badge&logo=anthropic&logoColor=white)](https://anthropic.com)
